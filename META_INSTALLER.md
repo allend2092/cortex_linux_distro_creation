@@ -606,8 +606,8 @@ NEXT STEPS:
      - Access financial tools: gnucash
 
 SUPPORT:
-   Documentation: https://github.com/allend2092/cortex_linux_distro_creation
-   Issues: https://github.com/allend2092/cortex_linux_distro_creation/issues
+   Documentation: https://github.com/cortex-linux/cortex_linux_distro_creation
+   Issues: https://github.com/cortex-linux/cortex_linux_distro_creation/issues
 
 Thank you for choosing Cortex Linux!
 EOF
