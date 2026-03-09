@@ -66,7 +66,7 @@ cortex-linux/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/cortex-linux.git
+git clone https://github.com/allend2092/cortex_linux_distro_creation.git
 cd cortex-linux
 
 # Create recommended directory structure
@@ -140,7 +140,7 @@ env/
 
 ```bash
 # Update README with actual repository URL
-sed -i 's|https://github.com/your-org/cortex-linux|https://github.com/YOUR_USERNAME/cortex-linux|g' README.md
+sed -i 's|https://github.com/allend2092/cortex_linux_distro_creation|https://github.com/YOUR_USERNAME/cortex_linux_distro_creation|g' README.md
 
 # Add and commit
 git add .
