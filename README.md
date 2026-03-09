@@ -1,7 +1,7 @@
 # Cortex Linux: README
 
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Status](https://img.shields.io/badge/Status-Pre--Alpha-orange.svg)](https://github.com/your-org/cortex-linux)
+[![Status](https://img.shields.io/badge/Status-Pre--Alpha-orange.svg)](https://github.com/allend2092/cortex_linux_distro_creation)
 [![Ubuntu](https://img.shields.io/badge/Base-Ubuntu_24.04_LTS-green.svg)](https://ubuntu.com/)
 
 **Cortex Linux** is an AI-agent optimized Linux distribution with integrated security tools and life management utilities, designed for professionals who want their operating system to be an extension of their workflow.
@@ -72,7 +72,7 @@ The installer automatically detects:
 The meta-installer converts an existing Ubuntu 24.04 system into Cortex Linux:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/your-org/cortex-linux/main/install.sh | bash -s -- --profile ai-dev
+curl -fsSL https://raw.githubusercontent.com/allend2092/cortex_linux_distro_creation/main/install.sh | bash -s -- --profile ai-dev
 ```
 
 **Options:**
@@ -140,11 +140,12 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Acknowledgments
 
-- Built with [Ubuntu](https://ubuntu.com/) as the base distribution
-- AI infrastructure powered by [Ollama](https://ollama.com/)
-- Security tools sourced from [Kali Linux](https://www.kali.org/)
-- Desktop environment options from [GNOME](https://www.gnome.org/), [KDE](https://kde.org/), and [Xfce](https://xfce.org/)
+ - Built with [Ubuntu](https://ubuntu.com/) as the base distribution
+ - AI infrastructure powered by [Ollama](https://ollama.com/)
+ - Security tools sourced from [Kali Linux](https://www.kali.org/)
+ - Desktop environment options from [GNOME](https://www.gnome.org/), [KDE](https://kde.org/), and [Xfce](https://xfce.org/)
 
 ---
 
 **May it be wielded wisely.**
+
