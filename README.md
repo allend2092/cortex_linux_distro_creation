@@ -1,7 +1,7 @@
 # Cortex Linux: README
 
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Status](https://img.shields.io/badge/Status-Pre--Alpha-orange.svg)](https://github.com/allend2092/cortex_linux_distro_creation)
+[![Status](https://img.shields.io/badge/Status-Pre--Alpha-orange.svg)](https://github.com/cortex-linux/cortex_linux_distro_creation)
 [![Ubuntu](https://img.shields.io/badge/Base-Ubuntu_24.04_LTS-green.svg)](https://ubuntu.com/)
 
 **Cortex Linux** is an AI-agent optimized Linux distribution with integrated security tools and life management utilities, designed for professionals who want their operating system to be an extension of their workflow.
@@ -72,7 +72,7 @@ The installer automatically detects:
 The meta-installer converts an existing Ubuntu 24.04 system into Cortex Linux:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/allend2092/cortex_linux_distro_creation/main/install.sh | bash -s -- --profile ai-dev
+curl -fsSL https://raw.githubusercontent.com/cortex-linux/cortex_linux_distro_creation/main/install.sh | bash -s -- --profile ai-dev
 ```
 
 **Options:**

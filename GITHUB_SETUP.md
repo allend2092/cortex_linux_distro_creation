@@ -66,7 +66,7 @@ cortex-linux/
 
 ```bash
 # Clone the repository
-git clone https://github.com/allend2092/cortex_linux_distro_creation.git
+git clone https://github.com/cortex-linux/cortex_linux_distro_creation.git
 cd cortex-linux
 
 # Create recommended directory structure
@@ -84,16 +84,16 @@ mkdir -p tests/integration
 mkdir -p tests/hardware
 
 # Copy existing files
-cp /home/daryl/Documents/LLM_Context/LLM_context_Files/finances/LLM_Notes_Summary_and_Guidance/README.md .
-cp /home/daryl/Documents/LLM_Context/LLM_context_Files/finances/LLM_Notes_Summary_and_Guidance/SPEC.md .
-cp /home/daryl/Documents/LLM_Context/LLM_context_Files/finances/LLM_Notes_Summary_and_Guidance/META_INSTALLER.md .
-cp /home/daryl/Documents/LLM_Context/LLM_context_Files/finances/LLM_Notes_Summary_and_Guidance/ETHICS.md .
-cp /home/daryl/Documents/LLM_Context/LLM_context_Files/finances/LLM_Notes_Summary_and_Guidance/CONTRIBUTING.md .
-cp /home/daryl/Documents/LLM_Context/LLM_context_Files/finances/LLM_Notes_Summary_and_Guidance/CODE_OF_CONDUCT.md .
-cp /home/daryl/Documents/LLM_Context/LLM_context_Files/finances/LLM_Notes_Summary_and_Guidance/install.sh installers/
+cp /path/to/cortex-source/README.md .
+cp /path/to/cortex-source/SPEC.md .
+cp /path/to/cortex-source/META_INSTALLER.md .
+cp /path/to/cortex-source/ETHICS.md .
+cp /path/to/cortex-source/CONTRIBUTING.md .
+cp /path/to/cortex-source/CODE_OF_CONDUCT.md .
+cp /path/to/cortex-source/install.sh installers/
 
 # Copy license
-cat /home/daryl/Documents/LLM_Context/LLM_context_Files/finances/LLM_Notes_Summary_and_Guidance/LICENSE.txt > LICENSE
+cat /path/to/cortex-source/LICENSE.txt > LICENSE
 ```
 
 ### Step 3: Configure Git Ignore
@@ -140,7 +140,7 @@ env/
 
 ```bash
 # Update README with actual repository URL
-sed -i 's|https://github.com/allend2092/cortex_linux_distro_creation|https://github.com/YOUR_USERNAME/cortex_linux_distro_creation|g' README.md
+sed -i 's|https://github.com/cortex-linux/cortex_linux_distro_creation|https://github.com/YOUR_USERNAME/cortex_linux_distro_creation|g' README.md
 
 # Add and commit
 git add .

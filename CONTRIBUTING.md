@@ -15,10 +15,10 @@ All contributors must abide by our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Ple
 ### Reporting Bugs
 
 Before creating a bug report, please check:
-- The [documentation](https://github.com/allend2092/cortex_linux_distro_creation/docs)
-- Existing [issues](https://github.com/allend2092/cortex_linux_distro_creation/issues)
-- git clone https://github.com/allend2092/cortex_linux_distro_creation.git
-- Ask questions in [GitHub Discussions](https://github.com/allend2092/cortex_linux_distro_creation/discussions)
+- The [documentation](https://github.com/cortex-linux/cortex_linux_distro_creation/docs)
+- Existing [issues](https://github.com/cortex-linux/cortex_linux_distro_creation/issues)
+- git clone https://github.com/cortex-linux/cortex_linux_distro_creation.git
+- Ask questions in [GitHub Discussions](https://github.com/cortex-linux/cortex_linux_distro_creation/discussions)
 - Email: community@cortex-linux.org
 
 ### Staying Updated
